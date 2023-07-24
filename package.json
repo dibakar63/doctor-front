@@ -1,7 +1,7 @@
 {
   "name": "client",
   
-  "proxy": "https://doctor-back-jasi.onrender.com/",
+  "proxy": "https://doctor-back-jasi.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
